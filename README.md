@@ -1,5 +1,5 @@
 
-![profile picture](https://github.com/tjclawson/portfolio/blob/master/IMG_1356.jpg)
+![profile picture](IMG_1356.jpg)
 
 Android Developer
 
@@ -24,7 +24,7 @@ A one stop shop for running hackathons
 - Users can view hackathon projects and sign up for hackathon teams
 
 [GitHub Repository](https://github.com/Lambda-School-Labs/hackathon-portal-android)
-![hackathon screenshots](https://github.com/tjclawson/portfolio/blob/master/screenshots.png)
+![hackathon screenshots](screenshots.png)
 
 
 #### Receipt Tracker
@@ -36,4 +36,4 @@ Convenient app to allow users to track their receipts
 - Users can view chart of spending over date range
 
 [GitHub Repository](https://github.com/Build-Week-ReceiptTracker/Android)
-![receipt tracker screenshot](https://github.com/tjclawson/portfolio/blob/master/image%20(36).png)
+![receipt tracker screenshot](image%20(36).png)
