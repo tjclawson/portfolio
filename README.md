@@ -1,4 +1,4 @@
-# Tyler Clawson
+
 ![profile picture](https://github.com/tjclawson/portfolio/blob/master/IMG_1356.jpg)
 
 Android Developer
@@ -22,6 +22,7 @@ A one stop shop for running hackathons
 - Organizers can review and accept project submissions
 - Users can search and register for hackathons
 - Users can view hackathon projects and sign up for hackathon teams
+
 [GitHub Repository](https://github.com/Lambda-School-Labs/hackathon-portal-android)
 ![hackathon screenshots](https://github.com/tjclawson/portfolio/blob/master/screenshots.png)
 
@@ -33,5 +34,6 @@ Convenient app to allow users to track their receipts
 - Users can upload photo of appropriate reciept
 - Users can search for receipts based on amount, category, vendor, or date
 - Users can view chart of spending over date range
+
 [GitHub Repository](https://github.com/Build-Week-ReceiptTracker/Android)
 ![receipt tracker screenshot](https://github.com/tjclawson/portfolio/blob/master/image%20(36).png)
