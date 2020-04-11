@@ -24,6 +24,7 @@ A one stop shop for running hackathons
 - Users can view hackathon projects and sign up for hackathon teams
 
 [GitHub Repository](https://github.com/Lambda-School-Labs/hackathon-portal-android)
+
 ![hackathon screenshots](screenshots.png)
 
 
@@ -36,4 +37,5 @@ Convenient app to allow users to track their receipts
 - Users can view chart of spending over date range
 
 [GitHub Repository](https://github.com/Build-Week-ReceiptTracker/Android)
+
 ![receipt tracker screenshot](image%20(36).png)
