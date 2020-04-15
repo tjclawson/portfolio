@@ -13,12 +13,23 @@ tjamesclawson@gmail.com
 
 [Github](https://github.com/tjclawson)
 
+### Skills
+**LANGUAGES**: Kotlin, Java, Python, SQL
+
+**LIBRARIES**: Retrofit2, Dagger2, Room, AndroidX, Auth0, Gson, Picasso
+
+**FRAMEWORKS**: MVVM, MVC, Spring Boot
+
+**SOFTWARE**: Android Studio, Intellij IDEA, PyCharm, Microsoft Office Suite, PostgreSQL
+
+
 
 ### Projects
 #### Hackathon Portal
 A one stop shop for running hackathons
-##### Features
-- Organizers create, update, and remove hackathons
+##### Implemented Features
+- User authentication with Auth0
+- Organizers can create, update, and remove hackathons
 - Organizers can review and accept project submissions
 - Users can search and register for hackathons
 - Users can view hackathon projects and sign up for hackathon teams
@@ -30,7 +41,7 @@ A one stop shop for running hackathons
 
 #### Receipt Tracker
 Convenient app to allow users to track their receipts
-##### Features
+##### Implemented Features
 - Allow users to create, update, and delete receipts
 - Users can upload photo of appropriate reciept
 - Users can search for receipts based on amount, category, vendor, or date
