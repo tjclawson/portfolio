@@ -27,6 +27,10 @@ tjamesclawson@gmail.com
 ### Projects
 #### Hackathon Portal
 A one stop shop for running hackathons
+##### Contributions
+- Coordinated communication between android team and full stack web team
+- Participated in the architecture design of the app
+- Prioritized daily tasks for android team
 ##### Implemented Features
 - User authentication with Auth0
 - Organizers can create, update, and remove hackathons
@@ -41,6 +45,10 @@ A one stop shop for running hackathons
 
 #### Receipt Tracker
 Convenient app to allow users to track their receipts
+##### Contributions
+- Designed architecture of application
+- Enabled third party image hosting allow users to upload images of receipts
+- Communicated with back end developers to get necessary REST endpoints created
 ##### Implemented Features
 - Allow users to create, update, and delete receipts
 - Users can upload photo of appropriate reciept
