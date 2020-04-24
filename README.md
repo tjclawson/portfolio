@@ -43,6 +43,21 @@ A one stop shop for running hackathons
 ![hackathon screenshots](screenshots.png)
 
 
+
+#### Secret Family Recipe Cookbook
+Java Spring Boot back end with CRUD functionality for Ingredients, Recipes, and users with Authentication
+##### Contributions
+- Delivered fully functioning RESTful API for front end developers
+- Assisted in helping team understand API and authentication
+##### Implemented Features
+- REST API using Spring Boot, following best practices to create end points for Front End developers to perform CRUD operations on recipes, their corresponding ingredients, and user data
+- Took initiative to learn new library to allow image data to be sent to API, and then hosted on Cloudinary to allow users to upload images of their receipts Secured application using OAuth2 for user registration, login, and validating HTTP requests
+- Swagger to provide documentation for Front End developers
+
+[GitHub Repository](https://github.com/KD-Secret-Family-Recipes-Cookbook/backend)
+
+
+
 #### Receipt Tracker
 Convenient app to allow users to track their receipts
 ##### Contributions
